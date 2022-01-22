@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "What You Need"
+title: "HomeKit Apps"
 permalink: /getting-started/homekit-apps/
 nav_order: 3
 ---

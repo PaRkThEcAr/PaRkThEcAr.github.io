@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "What You Need"
+title: "Shortcuts VS Advanced Automations"
 permalink: /getting-started/shortcuts_v_advancedautomations/
 nav_order: 4
 ---
