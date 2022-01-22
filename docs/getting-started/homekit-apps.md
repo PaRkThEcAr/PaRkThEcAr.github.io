@@ -1,7 +1,7 @@
-layout: page
+layout: default
 title: "What You Need"
 permalink: /getting-started/homekit-apps/
-nav_order: 2
+nav_order: 3
 
 What apps can be used to make an automation in HomeKit?
 

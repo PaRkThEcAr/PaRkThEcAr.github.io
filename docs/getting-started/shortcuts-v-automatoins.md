@@ -1,7 +1,7 @@
-layout: page
+layout: default
 title: "What You Need"
 permalink: /getting-started/shortcuts_v_advancedautomations/
-nav_order: 3
+nav_order: 4
 
 Shortcuts VS Advanced Automations/Shortcut automations
 What's the difference?

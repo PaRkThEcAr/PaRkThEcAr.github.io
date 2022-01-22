@@ -1,3 +1,9 @@
+layout: default
+title: UI Components
+nav_order: 1
+has_children: true
+has_toc: false
+
 This is our Wiki. May we all gain and gleam from its knowledge.
 
 Let's begin the automation journey!
