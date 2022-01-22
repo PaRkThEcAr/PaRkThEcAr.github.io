@@ -27,10 +27,10 @@ This plugin is rather easy to work with. you can make the dummy stateful should 
 
 once you have your switch, you just need to build a basic accessory automation like this!
 
-![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/60a63eb7cb04524b03e45070c755cab1cd25b50e/docs/LetsReallyBuild/Images/GarageDoorAutomation.png)
+![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsReallyBuild/Images/GarageDoorAutomation.png?raw=true)
 
 ## Skip Siri Authenticating using this technique
 
 But let's take this one step further. What if you wanted to open the garage door using Siri without authenticating on an iPhone? all we need to do is add it to a scene and name it something you will say like "Open the Pod Bay Doors" or in my case, "Open the Garage Door". Just be advised that by doing this, you could open yourself up to issues such as unwanted entry. So if you would rather NOT open yourself up to this, don't.
 
-![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/60a63eb7cb04524b03e45070c755cab1cd25b50e/docs/LetsReallyBuild/Images/NoAuthDoor.png)
+![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsReallyBuild/Images/NoAuthDoor.png?raw=true)

@@ -28,12 +28,12 @@ this image contains the trigger. for both Rising AND falling, it is only execute
 
 first, you will need to make this automation in one of the [third party HomeKit Apps](https://parkthecar.github.io/getting-started/homekit-apps/). So grab one if you don't have one! In this example, I will use Controller for HomeKit.
 
-![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/60a63eb7cb04524b03e45070c755cab1cd25b50e/docs/LetsReallyBuild/Images/TempEachChangeController.png)
+![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsReallyBuild/Images/TempEachChangeController.png?raw=true)
 
 This kind of automation will execute with EACH change. So to make sense of it, we need to filter the results. We have 2 methods. We could add a condition here and make a simple action. This will mean we may have to make multiple automations for each result. The benefit here being you can back up the automations. the Latter, we could save this without changing anything and open it in the stock Home App and convert it to shortcut. we could also do a mix of the two to speed it up. but for now, we will keep it simple. Just know that shortcuts in HomeKit DO pull conditions created in third party apps (even if they don't show correctly)
 
-![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/60a63eb7cb04524b03e45070c755cab1cd25b50e/docs/LetsReallyBuild/Images/ControllerTempAutomation.png)
+![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsReallyBuild/Images/ControllerTempAutomation.png?raw=true)
 
 If we pump it into a shortcut, we can then create all sorts of logic. From `REPEAT` actions, to `IF` statements. we can even add additional things like API calls or call upon the weather... Or in my case turn on my AdGuard Home server for some reason.
 
-![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/60a63eb7cb04524b03e45070c755cab1cd25b50e/docs/LetsReallyBuild/Images/TemperatureConvertedShortcut.png)
+![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsReallyBuild/Images/TemperatureConvertedShortcut.png?raw=true)
