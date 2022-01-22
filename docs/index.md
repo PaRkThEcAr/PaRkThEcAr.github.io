@@ -5,8 +5,11 @@ nav_order: 1
 permalink: /
 description: "Welcome to the r/HomeKitAutomation wiki!"
 ---
+# r/HomeKitAutomation Wiki
+### Welcome!
+---
 
-This is our Wiki. May we all gain and gleam from its knowledge.
+This is our Wiki it is indexible, fast, and hopefully good!
 
 Let's begin the automation journey!
 

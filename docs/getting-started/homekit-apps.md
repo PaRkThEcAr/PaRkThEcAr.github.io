@@ -5,7 +5,8 @@ permalink: /getting-started/homekit-apps/
 parent: "Getting Started"
 nav_order: 4
 ---
-## Some helpful resources to get you started.
+# HomeKit Apps
+### Some helpful resources to get you started.
 ---
 
 What apps can be used to make an automation in HomeKit?

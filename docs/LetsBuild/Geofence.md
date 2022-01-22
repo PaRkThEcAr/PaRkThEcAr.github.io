@@ -5,7 +5,8 @@ permalink: /LetsBuild/Geofence/
 parent: "Let's Build! (The Basics)"
 nav_order: 5
 ---
-## If you get out of my house I will lock it behind you... or not. The computer will :)
+# Geofence
+### If you get out of my house I will lock it behind you... or not. The computer will :)
 ---
 
 Geofenced automations are placed into 2 (technically 3) categories. To be able to use these, users need to have an iOS/iPadOS device (preferably an iPhone) that is set as your location device in iCloud "share my location" preferences. An iPad or iPod Touch could be used, but the accuracy and viability isnt as great compared to an iPhone which is in your pocket, has cellular, and carries GPS. they also need to be members of your home.

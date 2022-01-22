@@ -5,7 +5,8 @@ permalink: /LetsBuild/Accessory/
 parent: "Let's Build! (The Basics)"
 nav_order: 7
 ---
-## Sensors, but way more complex and fun.
+# Accessory (Triggers)
+### Sensors, but way more complex and fun.
 ---
 
 to save you the trouble of listing it all here in a big table it will be stated that JUST ABOUT EVERY ACCESSORY CAN BE USED AS A TRIGGER. with only one exception. audio.

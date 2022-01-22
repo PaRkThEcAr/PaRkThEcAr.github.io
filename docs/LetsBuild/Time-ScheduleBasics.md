@@ -5,7 +5,8 @@ permalink: /LetsBuild/TimeScheduleTriggers/
 parent: "Let's Build! (The Basics)"
 nav_order: 4
 ---
-## The easy stuff
+# Time/Schedule Triggers
+### The easy stuff
 ---
 
 This stuff is simple. at X time, do Y. you basically have 3 options from here.

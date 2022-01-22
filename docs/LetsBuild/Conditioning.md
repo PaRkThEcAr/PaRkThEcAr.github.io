@@ -5,7 +5,8 @@ permalink: /LetsBuild/Conditioning/
 parent: "Let's Build! (The Basics)"
 nav_order: 8
 ---
-## Not just for Pavlov's dogs.
+# Conditioning
+### Not just for Pavlov's dogs.
 ---
 
 Conditions in the Stock Home app really amount to 2 areas.

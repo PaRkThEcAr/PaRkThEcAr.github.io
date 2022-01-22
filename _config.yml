@@ -11,6 +11,7 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 aux_links:
   "Join us on Reddit!":
     - "https://reddit.com/r/HomeKitAutomation"
+aux_links_new_tab: true
 # search stuff
 search:
   # Split pages into sections that can be searched individually

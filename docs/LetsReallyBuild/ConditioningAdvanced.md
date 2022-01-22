@@ -5,7 +5,8 @@ permalink: /LetsBuildAdvanced/ConditioningAdvanced/
 parent: "Let's Build! (Advanced)"
 nav_order: 7
 ---
-## Pavlov's dogs have now turned on the students who fed them... Shit.
+# Conditioning (Advanced)
+### Pavlov's dogs have now turned on the students who fed them... Shit.
 ---
 
 Just like in our last section, using these HomeKit apps we can choose LOTS of stuff for conditioning... in fact, far more than you would think. yes, you do have your presence, weekday, circadian, and ToD conditions. but you also have accessory (sensors included) conditioning which gets the same full set of traits that triggers do :) even better though, you can COMBINE them.

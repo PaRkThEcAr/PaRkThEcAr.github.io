@@ -5,7 +5,8 @@ permalink: /LetsBuild/BasicsTriggers/
 parent: "Let's Build! (The Basics)"
 nav_order: 3
 ---
-## Not because ya basic. But because we all need to start somewhere. Here are the triggers!
+# The Basics (triggers)
+### Not because ya basic. But because we all need to start somewhere. Here are the triggers!
 ---
 
 In HomeKit, you have MANY trigger types. these fall into a few categories.

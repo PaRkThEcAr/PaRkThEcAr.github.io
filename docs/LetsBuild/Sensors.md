@@ -5,7 +5,8 @@ permalink: /LetsBuild/Sensors/
 parent: "Let's Build! (The Basics)"
 nav_order: 6
 ---
-## Now the real fun begins
+# Sensors
+### Now the real fun begins
 ---
 
 Sensors are a simple way to control things. they contain MANY variables and a chart will be included in the wiki that goes over the triggers for specific kinds of sensors. they are in two categories. Binary, and non-binary (environmental) for binary you have:

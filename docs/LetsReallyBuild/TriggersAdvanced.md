@@ -5,7 +5,8 @@ permalink: /LetsBuildAdvanced/TriggersAdvanced/
 parent: "Let's Build! (Advanced)"
 nav_order: 6
 ---
-## NOW I AM TRIGGERED (like a sensor ;) )
+# Triggers (Advanced)
+### NOW I AM TRIGGERED (like a sensor ;) )
 ---
 
 

@@ -5,8 +5,9 @@ permalink: /LetsBuildAdvanced/HostingRestAPI/
 parent: "Let's Build! (Advanced)"
 nav_order: 8
 ---
-## Okay, so lets go about hosting this and using it.
-Originally written by u/PaRkThEcAr.
+# Hosting a Rest API for HomeKit
+###  Okay, so lets go about hosting this and using it.
+Originally written by [/u/PaRkThEcAr](https://www.reddit.com/user/PaRkThEcAr1).
 ---
 
 Prerequisites
@@ -50,8 +51,8 @@ docker -d run  \
 This will start the service and pull your database. If you ever make a change with this outside of API calls, you will need to stop the script, and reload it.
 It will then pull up a few examples of API calls. For our Roomba, our url will be as such
 
-- For GET requests, it will be http://MY.IP.HERE.PLS:3000/Roomba
-- For PATCH http://MY.IP.HERE.PLS:3000/Roomba/1
+- For GET requests, it will be `http://MY.IP.HERE.PLS:3000/Roomba`
+- For PATCH `http://MY.IP.HERE.PLS:3000/Roomba/1`
 
 Now for the PATCH call, you need to specify the “id” key in the URL which in this case is 1. if you want to play around with DELETE or POST, you can check the NPM page as it has lots of documentation.
 
