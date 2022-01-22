@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The Basics (Triggers)"
+title: "Conditioning"
 permalink: /LetsBuild/Conditioning/
 parent: "Let's Build! (The Basics)"
 nav_order: 8

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The Basics (Triggers)"
+title: "Accessories"
 permalink: /LetsBuild/Accessory/
 parent: "Let's Build! (The Basics)"
 nav_order: 7

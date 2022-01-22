@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The Basics (Triggers)"
+title: "Geofence"
 permalink: /LetsBuild/Geofence/
 parent: "Let's Build! (The Basics)"
 nav_order: 5

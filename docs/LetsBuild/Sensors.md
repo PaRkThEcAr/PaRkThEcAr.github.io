@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The Basics (Triggers)"
+title: "Sensors"
 permalink: /LetsBuild/Sensors/
 parent: "Let's Build! (The Basics)"
 nav_order: 6

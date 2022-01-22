@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The Basics (Triggers)"
+title: "Time/Schedule Triggers"
 permalink: /LetsBuild/BasicsTriggers/
 parent: "Let's Build! (The Basics)"
 nav_order: 4
