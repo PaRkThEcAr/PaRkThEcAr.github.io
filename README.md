@@ -1,8 +1,7 @@
 layout: default
 title: UI Components
 nav_order: 1
-has_children: true
-has_toc: false
+has_toc: true
 
 This is our Wiki. May we all gain and gleam from its knowledge.
 
