@@ -2,7 +2,6 @@ layout: default
 title: Home
 nav_order: 1
 description: "Welcome to the r/HomeKitAutomation wiki!"
-permalink: /
 
 This is our Wiki. May we all gain and gleam from its knowledge.
 

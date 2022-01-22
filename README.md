@@ -1,7 +1,7 @@
 layout: default
-title: UI Components
+title: Home
 nav_order: 1
-has_toc: true
+description: "Welcome to the r/HomeKitAutomation wiki!"
 
 This is our Wiki. May we all gain and gleam from its knowledge.
 
