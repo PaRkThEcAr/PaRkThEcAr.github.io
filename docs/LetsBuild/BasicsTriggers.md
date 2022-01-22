@@ -10,7 +10,7 @@ nav_order: 3
 
 In HomeKit, you have MANY trigger types. these fall into a few categories.
 
-![jtd](reddit.com)
+![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsBuild/Images/TriggerTypesStock.png?raw=true)
 
 Starting from the top, you effectively have 4 categories.
 
