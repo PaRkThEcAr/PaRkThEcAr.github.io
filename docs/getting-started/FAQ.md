@@ -6,6 +6,7 @@ parent: "Getting Started"
 nav_order: 7
 ---
 ## Things that are regularly asked on r/HomeKitAutomation
+---
 
 Q. How do I create a notification on my HomePod?
 

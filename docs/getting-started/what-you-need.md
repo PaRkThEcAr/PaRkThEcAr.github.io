@@ -6,6 +6,7 @@ parent: "Getting Started"
 nav_order: 3
 ---
 ## Devices/software/etc
+---
 
 What do you need to automate with HomeKit?
 Simple!
