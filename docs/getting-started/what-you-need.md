@@ -2,7 +2,8 @@
 layout: default
 title: "What You Need"
 permalink: /getting-started/what-you-need/
-nav_order: 2
+parent: "Getting Started"
+nav_order: 3
 ---
 
 What do you need to automate with HomeKit?
