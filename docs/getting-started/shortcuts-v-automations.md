@@ -5,7 +5,7 @@ permalink: /getting-started/shortcuts_v_advancedautomations/
 parent: "Getting Started"
 nav_order: 5
 ---
-# Shortcuts VS Automations
+# Shortcuts VS. Advanced Automations
 ### What's the difference?
 ---
 
