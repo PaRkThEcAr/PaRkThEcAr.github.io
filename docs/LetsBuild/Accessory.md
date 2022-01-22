@@ -2,7 +2,7 @@
 layout: default
 title: "The Basics (Triggers)"
 permalink: /LetsBuild/Accessory/
-parent: "LetsBuild"
+parent: "Let's Build! (The Basics)"
 nav_order: 7
 ---
 ## Sensors, but way more complex and fun.

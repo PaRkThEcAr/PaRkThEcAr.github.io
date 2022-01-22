@@ -2,7 +2,7 @@
 layout: default
 title: "The Basics (Triggers)"
 permalink: /LetsBuild/BasicsTriggers/
-parent: "LetsBuild"
+parent: "Let's Build! (The Basics)"
 nav_order: 3
 ---
 ## Not because ya basic. But because we all need to start somewhere. Here are the triggers!

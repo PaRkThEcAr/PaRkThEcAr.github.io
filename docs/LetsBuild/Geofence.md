@@ -2,7 +2,7 @@
 layout: default
 title: "The Basics (Triggers)"
 permalink: /LetsBuild/Geofence/
-parent: "LetsBuild"
+parent: "Let's Build! (The Basics)"
 nav_order: 5
 ---
 ## If you get out of my house I will lock it behind you... or not. The computer will :)

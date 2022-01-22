@@ -2,7 +2,7 @@
 layout: default
 title: "The Basics (Triggers)"
 permalink: /LetsBuild/Conditioning/
-parent: "LetsBuild"
+parent: "Let's Build! (The Basics)"
 nav_order: 8
 ---
 ## Not just for Pavlov's dogs.
