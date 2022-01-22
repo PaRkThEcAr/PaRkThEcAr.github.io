@@ -1,6 +1,6 @@
 layout: page
 title: "What You Need"
-permalink: /getting-gtarted/what-you-need/
+permalink: /getting-started/what-you-need/
 
 What do you need to automate with HomeKit?
 Simple!
