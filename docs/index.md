@@ -4,7 +4,18 @@ title: Home
 nav_order: 1
 permalink: /
 description: "Welcome to the r/HomeKitAutomation wiki!"
+has_toc: true
 ---
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 
 This is our Wiki. May we all gain and gleam from its knowledge.
 
