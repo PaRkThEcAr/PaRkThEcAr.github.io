@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Time/Schedule Triggers"
-permalink: /LetsBuild/BasicsTriggers/
+permalink: /LetsBuild/TimeScheduleTriggers/
 parent: "Let's Build! (The Basics)"
 nav_order: 4
 ---
