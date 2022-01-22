@@ -15,7 +15,8 @@ my most recent implementation is done using Docker. if you don't have it install
 
 With that, you now need to make a db.json file in your user/home directory. You can use [jsonlint](https://jsonlint.com) to verify it. But there are a few keys you need to have. Here is an example of what i use. (Not the full thing, but just a taste :)
 
-```{
+```json
+{
   "Roomba": [
     {
       "lastRan": "Jan 20, 2021 at 12:06 PM",
@@ -38,7 +39,8 @@ Here are 2 Arrays that i use. One contains information on when my Roomba was las
 
 you can then build your docker container with this command. we are using the williamyeah/json-server container as it deploys quickly. we will also run this detached so we don't have to keep the command running.
 
-```docker -d run  \
+```
+docker -d run  \
       -p 3000:3000  -v `pwd`:/data  \
       williamyeh/json-server        \
       --watch db.json            \
