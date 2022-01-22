@@ -18,7 +18,7 @@ Here we will cover the uses for each and how to build them.
 
 ## Rising and falling
 
-![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsBuild/Images/RiseFallTempStock.png?raw=true)
+![jtd](docs/LetsReallyBuild/Images/RiseFallTempStock.png)
 
 this image contains the trigger. for both Rising AND falling, it is only executed ONCE when it runs through the threshold. so, in this example if the temperature drops below 62 degrees, it will then execute the automation until the temperature rises ABOVE 62, then back down below 62 again. it will not execute with each change or each change BELOW or AT 62 degrees.
 
