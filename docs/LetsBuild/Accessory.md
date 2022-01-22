@@ -13,6 +13,6 @@ Apple TV and HomePod's cannot be used as triggers. playing, pausing audio arent 
 
 that being said, what you can do to trigger it with an accessory varies greatly from app to app. in the stock Home app, you can only really do it based on Off/On state. (boolean) here is a garage door so you can see what i mean.
 
-![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsBuild/Images/TriggerTypesStock.png?raw=true)
+![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsBuild/Images/AccessoryTriggerStock.png?raw=true)
 
 in this context, you can see you can triger it by if the garage "opens" or "Closes". with Opens being on or true and Closes being off or false knowing this. it translates to nearly all accessory/sensor types and only changes when you use an app like Controller or Home+. [See HomeKit Apps](https://parkthecar.github.io/getting-started/FAQ/)
