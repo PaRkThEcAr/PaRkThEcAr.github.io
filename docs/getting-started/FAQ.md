@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "HomeKit Apps"
+title: "FAQ"
 permalink: /getting-started/FAQ/
 parent: "Getting Started"
 nav_order: 7
