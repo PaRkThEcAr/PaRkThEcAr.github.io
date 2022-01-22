@@ -1,4 +1,4 @@
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 color_scheme: dark
 title: r/HomeKitAutomation Wiki
 description: This is the official Wiki for r/HomeKitAutomation!
