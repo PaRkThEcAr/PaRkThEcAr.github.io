@@ -6,11 +6,12 @@ parent: "Let's Build! (Advanced)"
 nav_order: 8
 ---
 ## Okay, so lets go about hosting this and using it.
+Originally written by u/PaRkThEcAr.
 ---
 
-JPrerequisites
+Prerequisites
 
-my most recent implimentation is done using Docker. if you dont have it installed, you can do so here :) macOS and Windows Users need Docker Desktop which can be found on [their site.](https://docs.docker.com/engine/install/)
+my most recent implementation is done using Docker. if you don't have it installed, you can do so here :) macOS and Windows Users need Docker Desktop which can be found on [their site.](https://docs.docker.com/engine/install/)
 
 With that, you now need to make a db.json file in your user/home directory. You can use [jsonlint](https://jsonlint.com) to verify it. But there are a few keys you need to have. Here is an example of what i use. (Not the full thing, but just a taste :)
 
@@ -35,7 +36,7 @@ With that, you now need to make a db.json file in your user/home directory. You 
 
 Here are 2 Arrays that i use. One contains information on when my Roomba was last ran, when it last completed, and IF it is running. Every Array needs an “Id” key. This key is used in a PATCH call you will see in a minute. This will be our example.
 
-you can then build your docker container with this command. we are using the williamyeah/json-server container as it deploys quickly. we will also run this detached so we dont have to keep the command running.
+you can then build your docker container with this command. we are using the williamyeah/json-server container as it deploys quickly. we will also run this detached so we don't have to keep the command running.
 
 ```docker -d run  \
       -p 3000:3000  -v `pwd`:/data  \
