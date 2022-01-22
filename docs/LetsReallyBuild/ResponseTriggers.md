@@ -1,10 +1,11 @@
 ---
 layout: default
-title: "Useing Device Responsiveness As A Trigger"
+title: "Using Device Responsiveness As A Trigger"
 permalink: /LetsBuildAdvanced/ResponseTriggers/
 parent: "Let's Build! (Advanced)"
 nav_order: 9
 ---
+
 ## Trigger based on device unresponsiveness
 This was submitted by an anonymous reddit user who asked they not be credited. the post is on our sub but has also been mirrored here. They did not provide images.
 ---
