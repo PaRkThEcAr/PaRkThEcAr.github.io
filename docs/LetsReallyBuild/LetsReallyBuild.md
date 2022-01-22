@@ -3,7 +3,7 @@ layout: default
 title: "Let's REALLY Build"
 permalink: /LetsBuildAdvanced/LetsReallyBuild/
 parent: "Let's Build! (Advanced)"
-nav_order: 1
+nav_order: 5
 ---
 ## Okay, okay, we get it. You aren't basic. You are advanced. Here is the stuff for you!
 ---

@@ -6,7 +6,6 @@ permalink: /
 description: "Welcome to the r/HomeKitAutomation wiki!"
 has_toc: true
 ---
-
 <details open markdown="block">
   <summary>
     Table of contents
@@ -15,7 +14,7 @@ has_toc: true
 1. TOC
 {:toc}
 </details>
-
+---
 
 This is our Wiki. May we all gain and gleam from its knowledge.
 
