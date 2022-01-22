@@ -1,4 +1,3 @@
-# Welcome!
 This is our Wiki. May we all gain and gleam from its knowledge.
 
 Let's begin the automation journey!
