@@ -23,14 +23,12 @@ With Homebridge Occupancy Delay, we need to make a virtual occupancy sensor for 
 
 Next, we create a scene. just add the switch and make sure its on :)
 
-![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsReallyBuild/Images/NoAuthDoor.png?raw=true)
+![jtd](hhttps://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsReallyBuild/Images/LightResetSceneComp.png?raw=true)
 
 now, we automate. first, I tend to like making this automation Multi Threaded. this way, if one room should fail due to a disconnected device, the others wont fail :)
 
-![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsReallyBuild/Images/NoAuthDoor.png?raw=true)
+![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsReallyBuild/Images/LightResetBuild.jpg?raw=true)
 
 then we make an advanced automation (or HomeKit Shortcut) that will look like the image included. we create an IF statement to determine if the room has occupancy. then, IF there is, we set the lights to our default (in my case, its Adaptive lighting). if there is no occupancy, we turn the lights off. now, in the image i have 2 steps. i first set the lights to adaptive, then turn it off due to a glitch introduced in iOS 14.5 where lights when turned off will turn back to the color when you try to set them to adaptive. very odd, but hey, its a simple work around :)
-
-![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsReallyBuild/Images/NoAuthDoor.png?raw=true)
 
 And there you have it! simple, elegant, and useful! the end result is a scene that can be tapped on in HomeKit, invoked with Siri, or assigned to any HomeKit button. you can even use it in automatons. for example, when my wife arrives home, it will change the lights to Royal Blue for 10 seconds then reset the lights :) (if i am not already running a color scene. but more on that in another post).
