@@ -3,7 +3,7 @@ layout: default
 title: "Get a Notification When Laundry Finishes"
 permalink: /LetsBuildAdvanced/LaundryDoneAlert/
 parent: "Let's Build! (Advanced)"
-nav_order: 12
+nav_order: 13
 ---
 # Get a Notification When Laundry Finishes
 ### Originally written by [u/Old_Expression_1853](https://www.reddit.com/user/Old_Expression_1853/).
@@ -16,7 +16,7 @@ To do this, you’ll need:
 Smart plug with energy monitoring [smart plug]. I used this one running through [Homebridge](https://homebridge.io)
 Homebridge Dummy Switch Plugin [dummy switch]
 [Pushcut](https://pushcut.io)
-Home+ or EVE
+[Home+](https://hochgatterer.me/home+/) or [Eve](https://apps.apple.com/us/app/eve-for-homekit/id917695792)
 Stock HomeKit (Home) app
 ---
 Step 1:
@@ -32,7 +32,7 @@ When this happens:
 Control Accessories:
 [Dummy Switch] ON
 
-![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsReallyBuild/Images/NoAuthDoor.png?raw=true)
+![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsReallyBuild/Images/WashingAutomationTrigger1.png?raw=true)
 
 ---
 Step 4:
@@ -40,7 +40,7 @@ Create a Pushcut notification. Copy URL from bottom left.
 I called mine ‘Washing is done’, which has a Shortcut attached as an action that adds ‘Take the washing out’ to my reminders. You can download the shortcut here.
 For more information on Pushcut, I highly recommend watching this video by Shane Whatley. It’s an incredibly useful app.
 
-![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsReallyBuild/Images/NoAuthDoor.png?raw=true)
+![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsReallyBuild/Images/washingPushcutNotification.png?raw=true)
 
 ---
 Step 5:
@@ -55,7 +55,7 @@ Add ‘Get contents of’ and paste your Pushcut URL in the area for URLs. IMPOR
 Add ‘Control [home name]’, set [Dummy Switch] OFF
 Next > Done
 
-![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsReallyBuild/Images/NoAuthDoor.png?raw=true)
+![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsReallyBuild/Images/WashingNotificationAutomation3.png?raw=true)
 
 ---
 And we’re finished!
@@ -63,4 +63,4 @@ And we’re finished!
 Improvements
 I’m considering creating an automated reminder on an old iPhone, which is running a continuous Pushcut Automation Server - this will add a reminder to my reminders instead of just a notification. I’m just thinking this could be a bit annoying if I’m at work and my wife is home, but it could be a good alternative.
 
-![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsReallyBuild/Images/NoAuthDoor.png?raw=true)
+![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsReallyBuild/Images/WashingShortcutforPAS.png?raw=true)
