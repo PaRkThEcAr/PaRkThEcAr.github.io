@@ -21,7 +21,7 @@ Q. Motion sensors on my cameras turn my lights on after motion is not detected
 A. Yes. Camera's are imaged based motion sensors. This means that instead of using IR or other proximity sensing, they just look for changes in the image. This means that Panning, lights being turned off or on, doors being opened, blinking from certain devices, etc. will trigger it rather than a person, object, or animal physically walking in the room. If you do not like this you will need to use some clever trickery, or just use a traditional sensor :). the camera has the advantage of working over "theoretically" greater distances and being a multi-functioning device. It's just a shame they don't make GREAT motion sensors (in this application) but can be used in other applications (security systems etc)
 
 ```
-Q. Why do(es) X automation(s) not work?
+Q. Why don't my automations work?
 ```
 
 A. Sometimes there is an issue with a hub, condition, or device. Your method on diagnosis and treatment is basically the same. This method is PRETTY reliable.
