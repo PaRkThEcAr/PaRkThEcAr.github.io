@@ -23,7 +23,7 @@ With Homebridge Occupancy Delay, we need to make a virtual occupancy sensor for 
 
 Next, we create a scene. just add the switch and make sure its on :)
 
-![jtd](hhttps://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsReallyBuild/Images/LightResetSceneComp.png?raw=true)
+![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsReallyBuild/Images/LightResetSceneComp.png?raw=true)
 
 now, we automate. first, I tend to like making this automation Multi Threaded. this way, if one room should fail due to a disconnected device, the others wont fail :)
 
