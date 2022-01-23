@@ -12,7 +12,9 @@ nav_order: 13
 I thought I’d share an automation which gives me a notification when the washing is done. After a little trial and error, I think it’s working as I anticipated, and it helps me be more aware about helping my wife out with the washing.
 
 I've also heard of people using Aqara vibration sensors to do the same thing, but I feel like this is a probably more accurate way of going about it (I also don't have any spare vibration sensors but have heaps of smart plugs)
+
 ---
+
 To do this, you’ll need:
 
 Smart plug with energy monitoring [smart plug]. I used this one running through [Homebridge](https://homebridge.io)
