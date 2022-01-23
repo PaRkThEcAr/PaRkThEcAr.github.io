@@ -25,18 +25,16 @@ Homebridge Dummy Switch Plugin [dummy switch]
 
 Stock HomeKit (Home) app
 
----
 Step 1:
 
 Plug in the smart plug between the washing machine and your wall. (lol)
----
 
 Step 2:
 
 Create a dummy switch in Homebridge that will turn off after the maximum time
 
 you would do a load (mine is 40 mins, or 2400000 milliseconds).
----
+
 Step 3:
 
 In Home+, create an automation called ‘Washing Start’ with the following conditions:
@@ -51,8 +49,6 @@ Control Accessories:
 
 ![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsReallyBuild/Images/WashingAutomationTrigger1.png?raw=true)
 
----
-
 Step 4:
 
 Create a Pushcut notification. Copy URL from bottom left.
@@ -62,8 +58,6 @@ I called mine ‘Washing is done’, which has a Shortcut attached as an action 
 For more information on Pushcut, I highly recommend watching this video by Shane Whatley. It’s an incredibly useful app.
 
 ![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsReallyBuild/Images/washingPushcutNotification.png?raw=true)
-
----
 
 Step 5:
 
@@ -90,7 +84,9 @@ Next > Done
 ![jtd](https://github.com/PaRkThEcAr/PaRkThEcAr.github.io/blob/main/docs/LetsReallyBuild/Images/WashingNotificationAutomation3.png?raw=true)
 
 ---
+
 And we’re finished!
+
 ---
 
 Improvements
